@@ -40,8 +40,7 @@ Valid keys: `+JSON.stringify(Object.keys(f),null,"  "));var J=ne(O,N,T,w,S+"."+N
  * This source code is licensed under the MIT license found in the
  * LICENSE.md file in the root directory of this source tree.
  *
- * @license MIT
- * react-jsx-runtime.production.min.js
+ 
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
