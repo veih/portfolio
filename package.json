@@ -2,10 +2,11 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://veih.github.io/portfolio/dist/index.html",
+  "homepage": "https://veih.github.io/portfolio/",
   "type": "module",
   "scripts": {
-    "publicar": "npm run build && ./node_modules/.bin/gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "main -d build",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
@@ -22,6 +23,8 @@
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.0.0",
     "gh-pages": "^4.0.0",
+    "main": "^1000.0.1",
+    "portfolio": "^0.1.0",
     "vite": "^3.0.0"
   }
 }
