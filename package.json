@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://veih.github.oi/portfolio",
+  "homepage": "https://veih.github.com/portfolio",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build && ./node_modules/.bin/prettier --write 'src/**/*.{js,jsx,ts,tsx}'",
