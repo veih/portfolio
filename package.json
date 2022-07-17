@@ -2,10 +2,10 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://veih.github.com/portfolio",
+  "homepage": "https://github.com/veih.github.io/portfolio",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build && ./node_modules/.bin/prettier --write 'src/**/*.{js,jsx,ts,tsx}'",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
