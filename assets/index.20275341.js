@@ -34,8 +34,7 @@ Valid keys: `+JSON.stringify(Object.keys(f),null,"  "));var J=ne(O,N,T,w,S+"."+N
  * This source code is licensed under the MIT license found in the
  * LICENSE.md file in the root directory of this source tree.
  *
- * React Router DOM v6.3.0
- *
+ 
  * Copyright (c) Remix Software Inc.
  *
  * This source code is licensed under the MIT license found in the
