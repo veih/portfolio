@@ -1,8 +1,8 @@
 {
-  "name": "portfolios",
+  "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://veih.github.io/portfolios/",
+  "homepage": "https://veih.github.io/portfolio/",
   "type": "module",
   "scripts": {
     "publicar": "npm run build && ./node_modules/.bin/gh-pages -d build",
