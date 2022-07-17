@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://veih.github.io/portfolio-animado/",
+  "homepage": "https://veih.github.io/portfolio/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
@@ -16,7 +16,7 @@
     "react-dom": "^15.2.0",
     "react-router-dom": "^6.0.0",
     "react-transition-group": "^4.0.2",
-    "styled-components": "^5.0.5"
+    "styled-components": "^5..5"
   },
   "devDependencies": {
     "@types/react": "^18.0.15",
