@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/veih.github.io/portfolio",
+  "homepage": "https://veih.github.io/portfolio/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
