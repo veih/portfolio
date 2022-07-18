@@ -9,15 +9,15 @@
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
-
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
     "gh-pages": "^4.0.0",
+    "i": "^0.3.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-
   "devDependencies": {
+    "@types/node": "^18.0.6",
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.0.0",
@@ -26,5 +26,3 @@
     "vite-svg-loader": "^3.4.0"
   }
 }
-
-
