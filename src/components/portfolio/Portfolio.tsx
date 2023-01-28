@@ -1,5 +1,5 @@
 import "./portfolio.css";
-import unblock from "https://veih.github.io/portfolio/src/assets/unblock.jpg";
+import unblock from "/assets/unblock.jpg";
 
 const Portfolio = () => {
   return (

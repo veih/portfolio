@@ -1,6 +1,6 @@
 import React from 'react'
 import CTA from './CTA'
-import marcelo from "https://veih.github.io/portfolio/src/assets/marcelo.jpg";
+import marcelo from "https://veih.github.io/portfolio/assets/marcelo.jpg";
 import HeaderSocials from "./HeaderSocials";
 
 import './header.css'
