@@ -1,5 +1,5 @@
 import "./portfolio.css";
-import unblock from "/assets/unblock.jpg";
+import unblock from "./../../assets/unblock.jpg";
 
 const Portfolio = () => {
   return (

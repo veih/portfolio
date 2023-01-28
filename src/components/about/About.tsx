@@ -1,4 +1,4 @@
-import marcelo from "https://veih.github.io/portfolio/assets/marcelo.jpg";
+import marcelo from "./../../assets/marcelo.jpg";
 
 import { BsAward } from "react-icons/bs";
 import { FiUsers } from "react-icons/fi";
