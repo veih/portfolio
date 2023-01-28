@@ -5,13 +5,8 @@ import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
 
 import "./about.css";
-import { useEffect, useState } from 'react';
 
 const About = () => {
-  useEffect(() => {
-    fetch(marcelo).then()
-    console.log(marcelo)
-  }, [])
 
   return (
     <section id="about">
