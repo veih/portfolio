@@ -1,6 +1,5 @@
-import React from 'react'
+
 import CTA from './CTA'
-import marcelo from "./../../assets/marcelo.jpg";
 import HeaderSocials from "./HeaderSocials";
 
 import './header.css'
@@ -16,7 +15,10 @@ const Header = () => {
         <HeaderSocials />
 
         <div className="me">
-          <img src={marcelo} alt="marcelo" />
+          <img
+            src="https://veih.github.io/portfolio.github.oi/assets/marcelo-9edcd4ac.jpg"
+            alt="marcelo"
+          />
         </div>
 
         <a href="#contact" className="scroll__down">

@@ -1,5 +1,4 @@
 import "./portfolio.css";
-import unblock from "./../../assets/unblock.jpg";
 
 const Portfolio = () => {
   return (
@@ -10,7 +9,10 @@ const Portfolio = () => {
       <div className="container portifolio__container">
         <article className="portifolio__item">
           <div className="portifolio__item-image">
-            <img src={unblock} alt="trabalho" />
+            <img
+              src="https://veih.github.io/portfolio.github.oi/assets/unblock-3bfeb062.jpg"
+              alt="trabalho"
+            />
           </div>
           <h3>Projetos para meu portifólio</h3>
           <a href="#" className="btn" target="_blank">
@@ -26,7 +28,10 @@ const Portfolio = () => {
         </article>
         <article className="portifolio__item">
           <div className="portifolio__item-image">
-            <img src={unblock} alt="trabalho" />
+            <img
+              src="https://veih.github.io/portfolio.github.oi/assets/unblock-3bfeb062.jpg"
+              alt="trabalho"
+            />
           </div>
           <h3>Projetos para meu portifólio</h3>
           <a href="#" className="btn" target="_blank">
@@ -42,7 +47,10 @@ const Portfolio = () => {
         </article>
         <article className="portifolio__item">
           <div className="portifolio__item-image">
-            <img src={unblock} alt="trabalho" />
+            <img
+              src="https://veih.github.io/portfolio.github.oi/assets/unblock-3bfeb062.jpg"
+              alt="trabalho"
+            />
           </div>
           <h3>Projetos para meu portifólio</h3>
           <a href="#" className="btn" target="_blank">
