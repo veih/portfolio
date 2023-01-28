@@ -16,7 +16,7 @@ const Header = () => {
 
         <div className="me">
           <img
-            src="https://veih.github.io/portfolio.github.oi/assets/marcelo-9edcd4ac.jpg"
+            src="https://veih.github.io/portfolio.github.oi/assets/images/marcelo.jpg"
             alt="marcelo"
           />
         </div>

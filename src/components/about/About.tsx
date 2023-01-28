@@ -17,7 +17,7 @@ const About = () => {
         <div className="about__me">
           <div className="about__me-image">
             <img
-              src="https://veih.github.io/portfolio.github.oi/assets/marcelo-9edcd4ac.jpg"
+              src="https://veih.github.io/portfolio.github.oi/assets/images/marcelo.jpg"
               alt="marcelo"
             />
           </div>

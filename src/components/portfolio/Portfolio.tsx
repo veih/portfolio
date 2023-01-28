@@ -10,7 +10,7 @@ const Portfolio = () => {
         <article className="portifolio__item">
           <div className="portifolio__item-image">
             <img
-              src="https://veih.github.io/portfolio.github.oi/assets/unblock-3bfeb062.jpg"
+              src="https://veih.github.io/portfolio.github.oi/assets/images/unblock.jpg"
               alt="trabalho"
             />
           </div>
@@ -29,7 +29,7 @@ const Portfolio = () => {
         <article className="portifolio__item">
           <div className="portifolio__item-image">
             <img
-              src="https://veih.github.io/portfolio.github.oi/assets/unblock-3bfeb062.jpg"
+              src="https://veih.github.io/portfolio.github.oi/assets/images/unblock.jpg"
               alt="trabalho"
             />
           </div>
@@ -48,7 +48,7 @@ const Portfolio = () => {
         <article className="portifolio__item">
           <div className="portifolio__item-image">
             <img
-              src="https://veih.github.io/portfolio.github.oi/assets/unblock-3bfeb062.jpg"
+              src="https://veih.github.io/portfolio.github.oi/assets/images/unblock.jpg"
               alt="trabalho"
             />
           </div>
