@@ -14,42 +14,48 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>HTML 5</h4>
+                <a href="/public/assets/certificados/certificadoHTML5.jpg" target='_blank'><h4>HTML 5</h4></a>
+                
                 <small className="text-light">Esperiênte</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>CSS 3</h4>
+                <a href="/public/assets/certificados/certificadoHTML5.jpg" target='_blank'><h4>CSS 3</h4></a>
+                
                 <small className="text-light">Esperiênte</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Javascript</h4>
+                <a href="/public/assets/certificados/certificadoJavascript.jpg" target='_blank'><h4>Javascript</h4></a>
+                
                 <small className="text-light">Esperiênte</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>React JS</h4>
+                <a href="/public/assets/certificados/certificadoReactJS.jpg" target='_blank'><h4>React JS</h4></a>
+                
                 <small className="text-light">Esperiênte</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Vue JS</h4>
+                <a href="/public/assets/certificados/certificadoVueJS.jpg" target='_blank'><h4>Vue JS</h4></a>
+                
                 <small className="text-light">Intermediário</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Angular</h4>
+                <a href="/public/assets/certificados/certificadoAngular.jpg" target='_blank'><h4>Angular</h4></a>
+                
                 <small className="text-light">Intermediário</small>
               </div>
             </article>
