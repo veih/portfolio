@@ -8,7 +8,7 @@ const Contact = () => {
   return (
     <section id="contact">
       <h5>Procurando Dev?</h5>
-      <h2>Esta aqui meu contato</h2>
+      <h2>Estão aqui meus contatos</h2>
 
       <div className="contact__container contact">
         <div className="contact__options">
