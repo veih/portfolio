@@ -33,15 +33,6 @@ html {
   display: none;
 }
 
-body {
-  font-family: "poppins", sans-serif;
-  background: var(--color-bg);
-  color: var(--color-white);
-  line-height: 1.7rem;
-  background-image: url(#);
-}
-
-
 .container {
   width: var(--container-width-lg);
   margin: 0 auto;

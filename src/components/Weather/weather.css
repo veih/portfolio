@@ -1,0 +1,37 @@
+#weather {
+    margin-left: 85%;
+    display: flex;
+    height: 0px;
+}
+
+#nuvem {
+    height: 80px;
+    width: 80px;
+}
+
+#weather h2 {
+    margin: 1.7rem 0rem 1rem -1.5rem;
+    text-align: center;
+}
+
+@media screen and (max-width: 1090px) {
+    #weather h2 {
+    margin: 1.7rem 0rem 1rem -2.5rem;
+    text-align: center;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #weather {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+        margin: -80px 103px 18rem;
+        position: relative;
+        height: 2rem;
+        width: 2rem;
+    }
+
+    #weather h2 {
+        margin: 1.7rem 0rem 1rem -0.5rem;
+    }
+}

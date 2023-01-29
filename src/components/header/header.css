@@ -56,6 +56,18 @@ header {
     font-weight: 300;
     font-size: 0.9rem;
 }
+#clock {
+    background: var(--color-primary);
+    height: 5rem;
+    width: 5rem;
+    left: 20px;
+    top: 52px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
 
 @media screen and (max-width:1024px){
   header {

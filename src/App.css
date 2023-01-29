@@ -3,3 +3,27 @@
   margin: 0 auto;
   padding: 2rem;
 }
+
+.LightMode {
+  background-color: #fff;
+}
+
+#button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 85%;
+}
+
+.icon {
+  margin-right: 1rem;
+}
+
+body {
+  font-family: "poppins", sans-serif;
+  background: var(--color-bg);
+  color: var(--color-white);
+  line-height: 1.7rem;
+  background-image: url(#);
+}
+
