@@ -19,7 +19,7 @@
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);
-    background-image: url(https://veih.github.io/portfolio.github.oi/assets/images/mira.jpg);
+    background-image: url(https://veih.github.io/portifolio/assets/images/mira.jpg);
 }
 
 .about__me-image:hover {

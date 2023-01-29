@@ -39,7 +39,7 @@ header {
     background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
     height: 20rem;
-    background-image: url(https://veih.github.io/portfolio.github.oi/assets/images/mira.jpg);
+    background-image: url(https://veih.github.io/portifolio/assets/images/mira.jpg);
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;

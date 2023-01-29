@@ -6,63 +6,69 @@ const Portfolio = () => {
       <h5>Meus trabalhos recentes</h5>
       <h2>Portifólio</h2>
 
-      <div className="container portifolio__container">
-        <article className="portifolio__item">
-          <div className="portifolio__item-image">
+      <div className="container portfolio__container">
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
             <img
-              src="https://veih.github.io/portfolio.github.oi/assets/images/unblock.jpg"
+              src="https://veih.github.io/portifolio/assets/images/unblock.jpg"
               alt="trabalho"
             />
           </div>
           <h3>Projetos para meu portifólio</h3>
-          <a href="#" className="btn" target="_blank">
-            Github
-          </a>
-          <a
-            href="https://unblockrealestate.com.br"
-            className="btn btn-primary"
-            target="_blank"
-          >
-            Demostração
-          </a>
+          <div className="portfolio__item-cta">
+            <a href="#" className="btn" target="_blank">
+              Github
+            </a>
+            <a
+              href="https://unblockrealestate.com.br"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Demostração
+            </a>
+          </div>
         </article>
-        <article className="portifolio__item">
-          <div className="portifolio__item-image">
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
             <img
-              src="https://veih.github.io/portfolio.github.oi/assets/images/unblock.jpg"
+              src="https://veih.github.io/portifolio/assets/images/unblock.jpg"
               alt="trabalho"
             />
           </div>
           <h3>Projetos para meu portifólio</h3>
-          <a href="#" className="btn" target="_blank">
-            Github
-          </a>
-          <a
-            href="https://unblockrealestate.com.br"
-            className="btn btn-primary"
-            target="_blank"
-          >
-            Demostração
-          </a>
+          <div className="portfolio__item-cta">
+            <a href="#" className="btn" target="_blank">
+              Github
+            </a>
+            <a
+              href="https://unblockrealestate.com.br"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Demostração
+            </a>
+          </div>
         </article>
-        <article className="portifolio__item">
-          <div className="portifolio__item-image">
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
             <img
-              src="https://veih.github.io/portfolio.github.oi/assets/images/unblock.jpg"
+              src="https://veih.github.io/portifolio/assets/images/unblock.jpg"
               alt="trabalho"
             />
           </div>
           <h3>Projetos para meu portifólio</h3>
-          <a href="#" className="btn" target="_blank">
-            Github
-          </a>
-          <a
-            href="https://unblockrealestate.com.br"
-            className="btn btn-primary"
-            target="_blank"
-          >
-            Demostração
-          </a>
+          <div className="portfolio__item-cta">
+            <a href="#" className="btn" target="_blank">
+              Github
+            </a>
+            <a
+              href="https://unblockrealestate.com.br"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Demostração
+            </a>
+          </div>
         </article>
       </div>
     </section>

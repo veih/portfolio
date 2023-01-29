@@ -4,7 +4,7 @@ const CTA = () => {
   return (
     <div className="cta">
       <a
-        href="https://veih.github.io/portfolio.github.oi/assets/images/CV.pdf"
+        href="https://veih.github.io/portifolio/assets/images/CV.pdf"
         download
         className="btn"
       >
