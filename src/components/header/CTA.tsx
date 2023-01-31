@@ -11,9 +11,9 @@ const CTA = () => {
         {" "}
         Download CV
       </a>
-      <a href="#contact" className="btn btn-primary">
+      <a href="https://github.com/veih/portfolio" className="btn btn-primary">
         {" "}
-        Vamos conversar
+        github code
       </a>
     </div>
   );

@@ -1,6 +1,7 @@
-#weather {
-    margin-left: 85%;
+.weather {
+    margin-left: 55%;
     display: flex;
+    flex-direction: column;
     height: 0px;
 }
 
@@ -9,29 +10,23 @@
     width: 80px;
 }
 
-#weather h2 {
+.weather h2 {
     margin: 1.7rem 0rem 1rem -1.5rem;
     text-align: center;
 }
 
+#temp {
+    color: var(--color-primary);
+}
+
 @media screen and (max-width: 1090px) {
-    #weather h2 {
-    margin: 1.7rem 0rem 1rem -2.5rem;
-    text-align: center;
+    .weather  {
+        display: none;
     }
 }
 
 @media screen and (max-width: 600px) {
-    #weather {
-        grid-template-columns: 1fr;
-        gap: 1.5rem;
-        margin: -80px 103px 18rem;
-        position: relative;
-        height: 2rem;
-        width: 2rem;
-    }
-
-    #weather h2 {
-        margin: 1.7rem 0rem 1rem -0.5rem;
+    .weather {
+       display: none;
     }
 }

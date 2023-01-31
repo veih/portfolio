@@ -2,7 +2,9 @@
     display: grid;
     grid-template-columns: 35% 50%;
     gap: 15%;
+    color: var(--color-primary);
 }
+
 
 .about__me {
     width: 100%;
@@ -29,7 +31,7 @@
 .about__cards {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 1.5rem;
+    gap: 1rem;
 }
 
 .about__card {
@@ -37,6 +39,7 @@
     border: 1px solid transparent;
     border-radius: 1rem;
     padding: 2rem;
+    margin: 0 3rem 1rem -3rem;
     text-align: center;
     transition: var(--transition);
 }
@@ -66,7 +69,7 @@
     margin: 2rem 2rem;
     display: flex;
     flex-direction: column;
-    color: var(--color-light);
+    color: var(--color-primary);
 }
 
 @media screen and (max-width: 1024px ) {
@@ -88,17 +91,17 @@
 @media screen and (max-width: 600px ) {
     .about__me {
         width: 65%;
-        margin: 2rem auto 2rem;
+        margin: 1rem;
     }
 
     .about__cards{
         grid-template-columns: 1fr 1fr;
         gap: 1rem;
-        margin: 2rem 0;
+            margin: 2rem 0 0 1rem;
     }
 
     .about__container {
-        text-align: center;
+        color: var(--color-primary);
     }
 
     .about__container p {

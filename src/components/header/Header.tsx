@@ -13,7 +13,7 @@ const Header = () => {
         <Clock />
       </div>
       <div id='weather'>
-        <WeatherForecast city={'Fortaleza'} />
+        <WeatherForecast city={''} />
       </div>
       <div className="container header__container">
         <h5> Oi, eu sou </h5>
