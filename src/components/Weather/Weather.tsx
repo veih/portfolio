@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
 import "./weather.css";
 
@@ -41,11 +41,12 @@ const WeatherForecast: React.FC<{ city: string }> = () => {
         .then((result) => {
           setQuery("");
           setWeather(result);
-          
+
         });
     }
+
   };
-  
+
   const dateBuilder = (d: Date) => {
     let months = [
       "Janeiro",
@@ -108,9 +109,9 @@ const WeatherForecast: React.FC<{ city: string }> = () => {
               </div>
               <div className="weather__date">{dateBuilder(new Date())}</div>
             </div>
-            <div >
+            <div>
               <div>{Math.round(weather.main.temp)}°C</div>
-              <div>{weather.weather[0].icon}</div>
+              <div>{weather.weather[0].description}</div>
             </div>
           </div>
         ) : (
