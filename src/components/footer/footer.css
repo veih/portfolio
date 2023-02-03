@@ -50,6 +50,7 @@ footer__socials a:hover {
 .footer__copyright {
     margin-bottom: 4rem;
     color: var(--color-bg);
+    font-size: 1.1rem;
 }
 
 @media screen  and (max-width: 600px) {
