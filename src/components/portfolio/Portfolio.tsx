@@ -14,7 +14,7 @@ const Portfolio = () => {
               alt="trabalho"
             />
           </div>
-          <h3>Projetos para meu portifólio</h3>
+          <h3>Projetos unblock</h3>
           <div className="portfolio__item-cta">
             <a href="#" className="btn" target="_blank">
               Github
