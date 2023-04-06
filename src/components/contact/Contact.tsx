@@ -58,7 +58,7 @@ const Contact: React.FC = () => {
           <article className="contact__option">
             <BsWhatsapp className="contact__option-icon" />
             <h4>WhatsApp</h4>
-            <h5>(85)9 99568243</h5>
+            <h5>(85)9 99401626</h5>
             <a href="https://api.whatsapp.com/send?phone=85999568243">
               Mande sua mensagem
             </a>
